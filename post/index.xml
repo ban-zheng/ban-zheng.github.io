@@ -11,43 +11,8 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 11 Dec 2023 01:37:56 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2023 01:37:56 +0800</lastBuildDate>
     <atom:link href="https://ban-zheng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>入学健康证明</title>
-      <link>https://ban-zheng.github.io/post/template-a7/</link>
-      <pubDate>Mon, 11 Dec 2023 01:37:56 +0800</pubDate>
-      <guid>https://ban-zheng.github.io/post/template-a7/</guid>
-      <description>入学健康证明</description>
-    </item>
-    <item>
-      <title>诊断证明书病历手指受伤</title>
-      <link>https://ban-zheng.github.io/post/template-a6/</link>
-      <pubDate>Thu, 23 Nov 2023 01:37:56 +0800</pubDate>
-      <guid>https://ban-zheng.github.io/post/template-a6/</guid>
-      <description>诊断证明书病历手指受伤</description>
-    </item>
-    <item>
-      <title>诊断证明书医疗证明(感冒咳嗽)</title>
-      <link>https://ban-zheng.github.io/post/template-a5/</link>
-      <pubDate>Sat, 19 Aug 2023 01:37:56 +0800</pubDate>
-      <guid>https://ban-zheng.github.io/post/template-a5/</guid>
-      <description>诊断证明书医疗证明(感冒咳嗽)</description>
-    </item>
-    <item>
-      <title>诊断证明书病历感冒中医</title>
-      <link>https://ban-zheng.github.io/post/template-a4/</link>
-      <pubDate>Sat, 15 Jul 2023 01:37:56 +0800</pubDate>
-      <guid>https://ban-zheng.github.io/post/template-a4/</guid>
-      <description>诊断证明书病历感冒中医</description>
-    </item>
-    <item>
-      <title>医院诊断证明书病历模板</title>
-      <link>https://ban-zheng.github.io/post/template-a8/</link>
-      <pubDate>Fri, 14 Jul 2023 01:37:56 +0800</pubDate>
-      <guid>https://ban-zheng.github.io/post/template-a8/</guid>
-      <description>医院诊断证明书</description>
-    </item>
     <item>
       <title>哪里可以输诊断证明书</title>
       <link>https://ban-zheng.github.io/post/1/</link>
@@ -58,27 +23,6 @@ weight: 1 aliases: [&amp;quot;/first&amp;quot;] tags: [&amp;ldquo;样本&amp;rdq
 author: [&amp;ldquo;admin&amp;rdquo;, &amp;ldquo;You&amp;rdquo;] # multiple authors showToc: true TocOpen: false draft: false hidemeta: false comments: false
 description: &amp;ldquo;Desc Text.&amp;rdquo; canonicalURL: &amp;ldquo;https://canonical.url/to/page&amp;quot; disableHLJS: true # to disable highlightjs disableShare: false disableHLJS: false hideSummary: false searchHidden: false ShowReadingTime: false ShowBreadCrumbs: true ShowPostNavLinks: true ShowWordCount: false ShowRssButtonInSectionTermList: true UseHugoToc: true
 cover: image: &amp;ldquo;&amp;lt;image path/url&amp;gt;&amp;rdquo; # image path/url alt: &amp;ldquo;&amp;rdquo; # alt text caption: &amp;ldquo;&amp;rdquo; # display caption under cover relative: false # when using page bundles set this to true hidden: true # only hide on current single page editPost: URL: &amp;ldquo;https://github.</description>
-    </item>
-    <item>
-      <title>诊断证明书样本病历(呕吐腹泻)模板</title>
-      <link>https://ban-zheng.github.io/post/template-a2/</link>
-      <pubDate>Thu, 11 May 2023 01:37:56 +0800</pubDate>
-      <guid>https://ban-zheng.github.io/post/template-a2/</guid>
-      <description>医院诊断证明书，呕吐腹泻证明代开</description>
-    </item>
-    <item>
-      <title>B超彩超早孕孕妇怀孕</title>
-      <link>https://ban-zheng.github.io/post/template-a1/</link>
-      <pubDate>Mon, 10 Apr 2023 01:37:56 +0800</pubDate>
-      <guid>https://ban-zheng.github.io/post/template-a1/</guid>
-      <description>B超样本彩超模板早孕B超孕妇怀孕B超</description>
-    </item>
-    <item>
-      <title>诊断证明书病历(呕吐腹泻)模板</title>
-      <link>https://ban-zheng.github.io/post/template-a3/</link>
-      <pubDate>Sat, 21 Jan 2023 01:37:56 +0800</pubDate>
-      <guid>https://ban-zheng.github.io/post/template-a3/</guid>
-      <description>医院诊断证明书</description>
     </item>
   </channel>
 </rss>
